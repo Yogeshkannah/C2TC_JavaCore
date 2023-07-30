@@ -1,4 +1,4 @@
-package heiraricalInheritance;
+package com.cg.day5;
 
 public class cat extends Animal{
 	void meow() {
